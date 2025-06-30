@@ -24,15 +24,15 @@ soma = n1 + n2;
 multi = n1 * n2;
 //divisão
 div = n1 / n2;
-// subtração
+//subtração
 sub = n1 - n2;
 
 
 
-printf("A soma é: %d\n", soma);
-printf("A subtração é: %d\n" , sub);
-printf("A multiplicação é: %d\n", multi);
-printf("A  divisão é: %d \n", div);
+printf("A soma dos dois números: %d\n", soma);
+printf("A subtração entre os dois núemros: %d\n" , sub);
+printf("A multiplicação dos dois números: %d\n", multi);
+printf("A divisão dos dois números: %d \n", div);
 
 
 
